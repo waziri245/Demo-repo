@@ -1,3 +1,3 @@
 # Demo
 
-Welcome to my first Github Lesson.
+Welcome to my first Github Lesson!
